@@ -1,11 +1,14 @@
 [
   {
-    "task": "Write a Python function that extracts the AWS region from an EC2 instance ARN (Amazon Resource Name)"
+    "task": "Parse an AWS S3 bucket name from an S3 URI in the format 's3://bucket-name/key/path'",
+    "format": "regex"
   },
   {
-    "task": "Create a JSON configuration for an AWS Lambda function event trigger from an S3 bucket"
+    "task": "Create a JSON configuration object for an AWS Lambda function that specifies the runtime as 'python3.11', timeout as 60 seconds, and memory as 512 MB",
+    "format": "json"
   },
   {
-    "task": "Develop a regular expression to validate a standard AWS access key ID format (AKIAIOSFODNN7EXAMPLE)"
+    "task": "Write a Python function that takes an AWS EC2 instance ID string and returns True if it matches the valid format (e.g., 'i-1234567890abcdef0')",
+    "format": "python"
   }
 ]
