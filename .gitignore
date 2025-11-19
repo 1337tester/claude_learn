@@ -12,5 +12,6 @@ wheels/
 # Environment variable files
 .env
 
-# Generated dataset files
+# Generated files
 dataset.json
+output.*
