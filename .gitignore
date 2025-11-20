@@ -19,4 +19,4 @@ main.py
 test.py
 
 # Backups
-backups/
+.backups/
