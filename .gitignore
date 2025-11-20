@@ -15,3 +15,8 @@ wheels/
 # Generated files
 dataset.json
 output.*
+main.py
+test.py
+
+# Backups
+backups/
