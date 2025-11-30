@@ -21,5 +21,6 @@ test.py
 # Backups
 .backups/
 
-# Images
+# Input files
+*.pdf
 *.png
