@@ -20,3 +20,6 @@ test.py
 
 # Backups
 .backups/
+
+# Images
+*.png
